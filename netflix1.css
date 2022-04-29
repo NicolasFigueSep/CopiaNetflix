@@ -1,0 +1,139 @@
+
+*{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+#logo{
+    width: 125px;
+    height: 75px;
+}
+
+div{
+ border: 2px solid white;
+}
+
+body{
+    background-color: black;
+}
+#capa1{
+    height:1000px;
+    width: 2000px;
+    background-color: black;
+    background-image: linear-gradient(black ,rgba(152, 147, 147,0.1) 0%,black);
+    z-index: -2;
+    color: white;
+}
+.bgini{
+    background-image: linear-gradient(black ,rgba(152, 147, 147,0.1) ,black);
+}
+.inises{
+    background-color:rgb(216, 31, 38) ;
+    color: white;
+}
+.mask{
+    opacity: 0.5;
+}
+.texto{
+    line-height: 1.2;
+    margin-top: 5rem;
+}
+.empezar{
+    background-color: rgb(216, 31, 38);
+    color: white;
+    font-weight: bold;
+}
+.idioma{
+    background-color: rgba(105, 104, 104, 0.2);
+    border-color: white;
+}
+.idioma:hover{
+    background-color: rgba(105, 104, 104, 0.2);
+    border-color: white;
+    color: white;
+}
+.idioma:active{
+    background-color: rgba(105, 104, 104, 0.2);
+    border-color: white;
+    color: white;
+}
+.idioma:visited{
+    background-color: rgba(105, 104, 104, 0.2);
+    border-color: white;
+    color: white;
+}
+.correo{
+    height: 150px;
+}
+.panel2{
+
+    background-color: black;
+    height: 35rem;
+    
+}
+.descargando{
+    border-radius:20px;
+}
+.ayuda{
+    color: gray;
+    font-weight: lighter;
+}
+a{
+    text-decoration: none;
+    color: rgb(177, 172, 172);
+}
+a:hover{
+    font-weight: bold;
+    color: white;
+}
+.perfil{
+    max-height: 2rem;
+}
+.textoIni{
+    color: white;
+    font-weight: bold;
+}
+.barraIni{
+    background-image: linear-gradient(black,rgba(160, 160, 160, 0.1));
+
+    position: sticky;
+}
+.junipero{
+    width: 100%;
+    height: auto;
+}
+.logobm{
+    width:60%;
+    height: auto;
+    margin-left: 10%;
+}
+.parche{
+    height: 100rem;
+}
+.botonesSerie{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+.texto{
+    font-weight: bold;
+}
+.fondoPopular{
+    background-image: url("recursos netflix/backgroundPopular.jpg");
+}
+.masinfo{
+    background-color: rgb(117, 117, 117,0.7);
+    border-color: rgb(117, 117, 117, 0.7);
+}
+.alerta{
+    background-color: gray;
+   
+}
+.sonido{
+    position: absolute;
+    top:78%;
+    right:0;
+}
+.dieciseis{
+    background-color: orange;
+}

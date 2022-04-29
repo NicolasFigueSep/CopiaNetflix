@@ -10,7 +10,7 @@
 }
 
 div{
- border: 2px solid white;
+
 }
 
 body{
@@ -113,7 +113,7 @@ a:hover{
 .botonesSerie{
     position: absolute;
     top: 75%;
-    left: 10%;
+    left:5%
 }
 .texto{
     font-weight: bold;
@@ -127,7 +127,7 @@ a:hover{
 }
 .alerta{
     background-color: gray;
-   
+   border-left: 2px solid white;
 }
 .sonido{
     position: absolute;
@@ -137,3 +137,12 @@ a:hover{
 .dieciseis{
     background-color: orange;
 }
+.aux{
+    max-height: 0.2rem;
+    bottom: 0.3em;
+    left: 0;
+}
+.thumbPN:hover{
+    size: 5%;
+}
+
